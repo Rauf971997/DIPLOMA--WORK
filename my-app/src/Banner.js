@@ -5,7 +5,7 @@ function Banner(){
     return (
         <header className='banner' style={{
             backgroundSize:"cover",
-            backgroundImage:`url("https://wallpapercave.com/wp/wp1917118.jpg")`,
+            backgroundImage:`url("https://www.solidbackgrounds.com/images/1920x1080/1920x1080-black-solid-color-background.jpg")`,
             backgroundPosition:"center center"
         }}>
          
