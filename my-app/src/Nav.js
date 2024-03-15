@@ -23,7 +23,7 @@ function Nav() {
         <img
           className="nav__logo"
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawRe0teFSEAWgdSzNp7s-E_XRl_p61unPKRTJi4keEg&s"
-          alt="logo-image"
+          alt="logo"
         />
 
         <img
