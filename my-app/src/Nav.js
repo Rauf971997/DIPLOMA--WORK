@@ -18,7 +18,7 @@ function Nav() {
   }, []);
 
   return (
-    <div className={nav}>
+    <div className={`nav ${show && "nav__black"}`}>
       <div className="nav__contents">
         <img
           className="nav__logo"
